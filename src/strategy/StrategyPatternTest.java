@@ -1,17 +1,15 @@
 package strategy;
 
+import org.junit.Test;
+
 import strategy.character.Knight;
 import strategy.character.Queen;
 import strategy.character.Character;
 
 public class StrategyPatternTest {
-	
-	/**
-	 * キャラクタの振る舞いをテストします。
-	 * 
-	 * @param args
-	 */
-	public static void main(String[] args){
+
+	@Test
+	public void test(){
 		
 		Character queen = new Queen();
 		queen.fight();
