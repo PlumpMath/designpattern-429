@@ -71,7 +71,7 @@ public class MenuTestDrive {
 	}
 	
 	/**
-	 * {@link Waitress#printVegetarianMenu()}}のためのテスト・メソッド。
+	 * {@link Waitress#printMenu(java.util.Iterator)}}のためのテスト・メソッド。
 	 * 
 	 * @throws Exception
 	 */
