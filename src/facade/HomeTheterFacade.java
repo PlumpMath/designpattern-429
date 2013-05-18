@@ -1,12 +1,44 @@
 package facade;
 
+/**
+ * ホームシアタのファサードクラス。
+ * <pre>
+ * ホームシアタの起動に必要な各種インタフェースとのやりとりをカプセル化して提供します。
+ * </pre>
+ * 
+ * @author TakumiEra
+ *
+ */
 public class HomeTheterFacade {
 
+	/**
+	 * アンプ。
+	 */
 	Amplifier amp;
+	
+	/**
+	 * DVDプレイヤ。
+	 */
 	DvdPlayer dvd;
+	
+	/**
+	 * プロジェクタ。
+	 */
 	Projector projector;
+	
+	/**
+	 * 照明。
+	 */
 	TheaterLights lights;
+	
+	/**
+	 * スクリーン。
+	 */
 	Screen screen;
+	
+	/**
+	 * ポップコーンメーカ。
+	 */
 	PopcornPopper popper;
 	
 	
