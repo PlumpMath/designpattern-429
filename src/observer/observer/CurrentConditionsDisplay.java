@@ -17,6 +17,7 @@ public class CurrentConditionsDisplay implements Observer,DisplayElement{
 	/**
 	 * 気象情報サブジェクト。
 	 */
+	@SuppressWarnings("unused")
 	private Subject weatherData;
 	
 	/**

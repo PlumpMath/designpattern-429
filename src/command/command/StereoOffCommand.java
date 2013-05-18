@@ -1,6 +1,5 @@
 package command.command;
 
-import command.vendor.Light;
 import command.vendor.Stereo;
 
 /**

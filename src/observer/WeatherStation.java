@@ -14,7 +14,7 @@ public class WeatherStation {
 	public void test(){
 		WeatherData weatherData = new WeatherData();
 		
-		CurrentConditionsDisplay currentDisplay = new CurrentConditionsDisplay(weatherData);
+		new CurrentConditionsDisplay(weatherData);
 		
 		weatherData.setMesurements(27, 65, 30.4f);
 	}
