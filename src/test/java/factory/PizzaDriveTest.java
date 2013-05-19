@@ -10,7 +10,7 @@ import factory.store.ChicagoPizzaStore;
 import factory.store.NYPizzaStore;
 import factory.store.PizzaStore;
 
-public class PizzaTestDrive {
+public class PizzaDriveTest {
 
 	@Test
 	public void test() throws Exception {

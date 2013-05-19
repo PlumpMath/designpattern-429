@@ -6,7 +6,7 @@ import iterator.menu.PancakeHouseMenu;
 
 import org.junit.Test;
 
-public class MenuTestDrive {
+public class MenuTest {
 
 	@Test
 	public void test() throws Exception {

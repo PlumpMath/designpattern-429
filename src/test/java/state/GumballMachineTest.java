@@ -8,7 +8,7 @@ import state.state.HasQuaterState;
 import state.state.NoQuaterState;
 import state.state.SoldOutState;
 
-public class GumballMachineTestDrive {
+public class GumballMachineTest {
 
 	GumballMachine gumballMachine;
 	

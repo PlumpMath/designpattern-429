@@ -7,7 +7,7 @@ import composite.menu.MenuComponent;
 import composite.menu.MenuLeaf;
 import composite.menu.MenuNode;
 
-public class MenuTestDrive {
+public class MenuTest {
 
 	MenuComponent allMenus;
 	Waitress waitress;

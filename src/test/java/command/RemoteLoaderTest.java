@@ -16,7 +16,7 @@ import command.vendor.GarageDoor;
 import command.vendor.Light;
 import command.vendor.Stereo;
 
-public class RemoteLoader {
+public class RemoteLoaderTest {
 
 	@Test
 	public void test() throws Exception {

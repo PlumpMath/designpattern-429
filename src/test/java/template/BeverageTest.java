@@ -2,7 +2,7 @@ package template;
 
 import org.junit.Test;
 
-public class BeverageTestDrive {
+public class BeverageTest {
 
 	@Test
 	public void test() throws Exception {

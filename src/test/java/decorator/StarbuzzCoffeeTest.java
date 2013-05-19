@@ -12,7 +12,7 @@ import decorator.condiment.Mocha;
 import decorator.condiment.Soy;
 import decorator.condiment.Whip;
 
-public class StarbuzzCoffee {
+public class StarbuzzCoffeeTest {
 
 	@Test
 	public void test(){

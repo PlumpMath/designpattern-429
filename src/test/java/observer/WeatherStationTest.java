@@ -5,7 +5,7 @@ import org.junit.Test;
 import observer.observer.CurrentConditionsDisplay;
 import observer.subject.WeatherData;
 
-public class WeatherStation {
+public class WeatherStationTest {
 
 	/**
 	 * 
